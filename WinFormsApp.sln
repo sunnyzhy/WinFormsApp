@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpApp", "HttpApp\HttpApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterMark", "WaterMark\WaterMark.csproj", "{EC73CCA8-1F92-4496-BE8F-A76BF1A1203F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlTool", "XamlTool\XamlTool.csproj", "{F571E31D-F98E-49FD-8F6A-C970249AE8C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EC73CCA8-1F92-4496-BE8F-A76BF1A1203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC73CCA8-1F92-4496-BE8F-A76BF1A1203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC73CCA8-1F92-4496-BE8F-A76BF1A1203F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F571E31D-F98E-49FD-8F6A-C970249AE8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F571E31D-F98E-49FD-8F6A-C970249AE8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F571E31D-F98E-49FD-8F6A-C970249AE8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F571E31D-F98E-49FD-8F6A-C970249AE8C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
